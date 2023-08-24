@@ -7,7 +7,7 @@ let num="33";
 //TRUE=>1 FALSE=>0
 //NULL=>0
 
-console.log(typeof(num));
+// console.log(typeof(num));
 
 let valueInNumber=Number(num);
 // console.log(typeof valueInNumber);
@@ -22,7 +22,11 @@ let valueInNumber=Number(num);
 //to string
 let num2=33;
 let isnum=String(num2);
-console.log(isnum);
+// console.log(isnum);
+
+
+console.log("2"==2);
+console.log("2"===2);
 
 
 
